@@ -1,0 +1,51 @@
+* {
+	box-sizing: border-box;
+  }
+  
+  html {
+	scroll-behavior: smooth;
+  }
+  
+  
+  .header {
+	background-color: aquamarine;
+  }
+  
+  .container {
+	max-width: 1500px;
+	margin: 0 auto;
+  }
+  
+  .nav-list {
+	display: flex;
+	justify-content: flex-end;
+	align-items: center;
+	list-style: none;
+	font-family: "Roboto", sans-serif;
+	font-size: 22px;
+	font-weight: 700;
+	font-variant: small-caps;
+	letter-spacing: 0.15em;
+	color: #674bad;
+  }
+  
+  .nav-link {
+	padding: 0 20px;
+	line-height: 50px;
+  }
+  
+  .main-container {
+	display: flex;
+	flex-wrap: wrap;
+  }
+  
+  .section {
+	width: 50%;
+  }
+  
+  .list {
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	align-items: flex-start;
+  }
