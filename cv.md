@@ -22,3 +22,31 @@ I have been working as a strucural designer engineer for more than 15 years. In 
 - SQL
 - JavaScript (basic)
 - Git
+
+## Code Example
+
+```
+function positiveSum(arr)
+{var s=0;
+  for (var i=0; i<arr.length; i++)
+    {if (arr [i]>0) s=s+arr[i];}
+  return s;}
+```
+
+## Experience
+
+- **Graduation project** : "Web application for ads of construction services".
+
+  I developed this app using С# and ASP.NET MVC5 Framework with DB.
+
+  https://github.com/sttr19/DIPLOM.git
+
+## Education
+
+- (2000-2005) Belarusian State University of Transport, Construction Engineer
+- (2015-2018) Belarusian State University of Informatics and Radioelectronics, Software Engineer
+
+## Languages
+
+- Russian - native
+- English - A2 (B1 in process...)
